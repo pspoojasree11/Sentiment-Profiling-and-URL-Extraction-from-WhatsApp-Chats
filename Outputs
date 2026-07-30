@@ -1,0 +1,7 @@
+## 📊 Outputs
+The project generates the following outputs after processing the exported WhatsApp chat:
+
+- 😊 **Sentiment Distribution** – Displays the number of Positive, Neutral, and Negative messages using a bar chart.
+- 🔗 **Extracted URLs** – Lists all URLs shared in the conversation.
+- 📈 **URL Frequency Analysis** – Visualizes the most frequently shared URLs.
+- 📄 **Processed Chat Insights** – Provides summary statistics and sentiment information for the chat.
