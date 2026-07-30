@@ -1,0 +1,33 @@
+## 🛠️ Technologies Used
+
+- 🐍 **Python**  
+      A high-level, general-purpose programming language known for its readability and versatility.  
+  🔹 Used for implementing sentiment analysis, text preprocessing, and URL extraction.
+
+- 📊 **Pandas**  
+     A powerful data manipulation and analysis library for structured data operations.  
+  🔹 Used for importing, cleaning, and analyzing WhatsApp chat data, including URL extraction.
+
+- 🔢 **NumPy**  
+      A fundamental library for numerical computing in Python.  
+  🔹 Supports multi-dimensional arrays and mathematical operations to optimize text-processing logic.
+
+- 🧩 **Regular Expressions (Regex)**  
+     A powerful tool for pattern matching and text manipulation.  
+  🔹 Used for cleaning chat data, filtering noise, and extracting URLs from messages.
+
+- 📈 **Matplotlib**  
+     A comprehensive library for static, animated, and interactive visualizations in Python.  
+  🔹 Used for generating bar charts, line graphs, and sentiment distribution plots.
+
+- ☁️ **WordCloud**  
+     A graphical representation of word frequency where the size of each word indicates its frequency.  
+  🔹 Helps visualize the most commonly used words and URLs in the chat dataset.
+
+- ❤️🧠 **VADER (Valence Aware Dictionary for Sentiment Reasoning)**  
+     A rule-based sentiment analysis tool specifically tuned for social media texts.  
+  🔹 Used to classify WhatsApp messages as positive, negative, or neutral.
+
+- 🌐 **URL Extraction and Analysis**  
+     Leveraging Regex and data analysis techniques to extract and analyze shared URLs.  
+  🔹 Identifies the most frequently shared external links to understand user engagement patterns.
