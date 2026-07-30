@@ -37,6 +37,17 @@ Generates visual insights including:
 ### 📁 Clean Output
 - Saves processed results and visualizations for easy review.
 
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Core programming language |
+| pandas | Data manipulation and analysis |
+| NLTK (VADER) | Sentiment Analysis |
+| Matplotlib | Data visualization |
+| Seaborn | Statistical graphs |
+| re | Regular expressions for URL extraction and text parsing |
+
 ## ▶️ How to Run
 
 ### 1. Clone the repository
